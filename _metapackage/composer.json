@@ -3,7 +3,10 @@
     "description": "Adobe IMS Integration",
     "type": "metapackage",
     "require": {
-        "magento/module-adobe-ims": "*",
-        "magento/module-adobe-ims-api": "*"
-    }
+        "magento/module-adobe-ims": "2.1.0-alpha3",
+        "magento/module-adobe-ims-api": "2.1.0-alpha3"
+    },
+    "version": "2.1.0-alpha3",
+    "minimum-stability": "alpha",
+    "prefer-stable": true
 }
